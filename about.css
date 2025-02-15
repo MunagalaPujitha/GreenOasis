@@ -306,8 +306,8 @@ h3{
     }
     .content img{
         position: absolute;
-        left: 680px;
-        top: 350px;
+        left: 150px;
+        top: 100px;
         border-radius: 50%;
     }
     .content h2{
