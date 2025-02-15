@@ -305,6 +305,8 @@ h3{
         height: 250px;
     }
     .content img{
+        height:40px;
+        width:40px;
         position: absolute;
         left: 150px;
         top: 100px;
